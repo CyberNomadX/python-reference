@@ -12,11 +12,11 @@ color_scheme: dark
 
 aux_links:
   "View on GitHub":
-    - "https://github.com/yourusername/python-reference"
+    - "https://cybernomadx.github.io/python-reference/"
 
 aux_links_new_tab: true
 
-footer_content: "Built by <a href=\"https://github.com/yourusername\">yourusername</a>. Open-source and free to use."
+footer_content: "Built by <a href=\"https://github.com/CyberNomadX\">CyberNomadX</a>. Open-source and free to use."
 
 search_enabled: true
 heading_anchors: true
