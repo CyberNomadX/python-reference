@@ -1,5 +1,7 @@
 remote_theme: pages-themes/hacker@v0.2.0
+
 plugins:
   - jekyll-remote-theme
+
 title: Python Reference
 description: A growing library of Python tools and patterns I've put together as a sysadmin. Public and open-source for anyone who wants to learn, copy, or contribute.
