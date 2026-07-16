@@ -8,7 +8,7 @@ nav_order: 1
 
 A growing library of Python tools and patterns I've put together as a sysadmin. Public and open-source for anyone who wants to learn, copy, or contribute.
 
-[View on GitHub](https://github.com/yourusername/python-reference){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View on GitHub](https://cybernomadx.github.io/python-reference/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
