@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![License](https://img.shields.io/github/license/CyberNomadX/python-reference)
 ![Repo Size](https://img.shields.io/github/repo-size/CyberNomadX/python-reference)
 ![Last Commit](https://img.shields.io/github/last-commit/CyberNomadX/python-reference)
